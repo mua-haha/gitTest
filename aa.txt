@@ -7,5 +7,6 @@ asdas
 asdas
 
 sdasda
+<<<<<<< HEAD
 
 wwwwwwwwwwwwwwwwwwwwwwwwww
